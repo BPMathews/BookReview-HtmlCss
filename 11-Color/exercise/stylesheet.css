@@ -1,0 +1,27 @@
+body {
+  font-family: arial, verdana, sans-serif;
+  color: #665544;
+}
+
+.headerFooter {
+  background-color: DarkCyan;
+  color: White;
+  padding: 10px;
+}
+
+.loansApp {
+  background-color: LightGreen;
+  padding: 10px;
+}
+
+.roboDashApp {
+  background-color: Pink;
+  padding: 10px;
+}
+
+.review {
+  border: 1px solid DarkGray;
+  background-color: #EFEFEF;
+  padding: 10px;
+  margin: 10px;
+}
