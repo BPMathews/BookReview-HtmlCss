@@ -6,8 +6,11 @@ body {
   color: #665544;
 }
 
-a {
+a:link {
   text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
 }
 
 .headerFooter {
@@ -27,8 +30,9 @@ a {
 }
 
 .review {
-  border: 1px solid DarkGray;
   background-color: #EFEFEF;
   padding: 10px;
   margin: 10px;
+  font-style: italic;
+  text-align: justify;
 }
