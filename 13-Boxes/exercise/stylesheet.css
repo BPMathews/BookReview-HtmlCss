@@ -1,25 +1,5 @@
-@font-face {
-  font-family: 'Bebas';
-  src: url('fonts/BebasNeue Bold.otf');
-}
-
-@font-face {
-  font-family: 'BebasBold';
-  src: url('fonts/BebasNeue  Bold.otf');
-}
-
 * {
   font-family: helvetica, sans-serif;
-}
-
-h1, h2 {
-  font-family: Bebas, sans-serif;
-  font-size: 300%
-}
-
-h3 {
-  font-family: Bebas, sans-serif;
-  font-size: 200%
 }
 
 body {
