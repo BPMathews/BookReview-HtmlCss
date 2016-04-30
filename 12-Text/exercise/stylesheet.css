@@ -1,6 +1,13 @@
+* {
+  font-family: helvetica, sans-serif;
+}
+
 body {
-  font-family: arial, verdana, sans-serif;
   color: #665544;
+}
+
+a {
+  text-decoration: none;
 }
 
 .headerFooter {
