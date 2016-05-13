@@ -13,6 +13,7 @@
 }
 
 h1, h2 {
+  text-align: center;
   font-family: Bebas, sans-serif;
   font-size: 300%
 }
@@ -23,7 +24,8 @@ h3 {
 }
 
 body {
-  color: #665544;
+  color: #666666;
+  background-color: DarkCyan;
 }
 
 a:link {
@@ -34,23 +36,34 @@ a:hover {
 }
 
 .headerFooter {
-  background-color: DarkCyan;
+  margin: auto;
   color: White;
   padding: 10px;
+  max-width: 800px;
+  text-align: center;
 }
 
 .loansApp {
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  max-width: 800px;
   background-color: LightGreen;
   padding: 10px;
 }
 
 .roboDashApp {
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  max-width: 800px;
   background-color: Pink;
   padding: 10px;
 }
 
 .review {
-  background-color: #EFEFEF;
+  color: #444444;
+  background-color: #EEEEEE;
   padding: 10px;
   margin: 10px;
   font-style: italic;
