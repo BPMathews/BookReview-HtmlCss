@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'Bebas';
+  src: url('fonts/BebasNeue Bold.otf');
+}
+
+@font-face {
+  font-family: 'BebasBold';
+  src: url('fonts/BebasNeue  Bold.otf');
+}
+
+* {
+  font-family: helvetica, sans-serif;
+}
+
+h1, h2 {
+  text-align: center;
+  font-family: Bebas, sans-serif;
+  font-size: 300%
+}
+
+h3 {
+  font-family: Bebas, sans-serif;
+  font-size: 200%
+}
+
+body {
+  color: #666666;
+  background-color: White;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#header, #footer {
+  color: Gray;
+  padding: 10px;
+  text-align: left;
+  padding: 10px 0px 5px 0px;
+}
+
+#loans {
+
+}
+
+#robodash {
+
+}
+
+.app {
+  background-color: LightGrey;
+  padding: 0px 0px 5px 0px;
+}
+
+.review {
+  color: #444444;
+  background-color: rgba(0, 0, 0, 0.05);
+  font-style: italic;
+  text-align: justify;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.5), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 2px 1px -1px rgba(0, 0, 0, 0.12);
+}

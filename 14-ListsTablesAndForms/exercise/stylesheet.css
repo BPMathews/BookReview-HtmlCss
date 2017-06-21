@@ -50,6 +50,7 @@ a:hover {
   max-width: 800px;
   background-color: LightGreen;
   padding: 10px;
+  box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.2), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 2px 1px -1px rgba(0, 0, 0, 0.12);
 }
 
 .roboDashApp {
@@ -59,13 +60,15 @@ a:hover {
   max-width: 800px;
   background-color: Pink;
   padding: 10px;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.5), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 2px 1px -1px rgba(0, 0, 0, 0.12);
 }
 
 .review {
   color: #444444;
-  background-color: #EEEEEE;
+  background-color: rgba(0, 0, 0, 0.1);
   padding: 10px;
   margin: 10px;
   font-style: italic;
   text-align: justify;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.5), 0 1px 1px 0 rgba(0, 0, 0, 0.14), 0 2px 1px -1px rgba(0, 0, 0, 0.12);
 }
